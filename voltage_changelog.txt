@@ -1,8 +1,8 @@
 ROM: Voltage v2.7 | Unofficial
 Date: 14/08/2023
-• source changelog (https://t.me/voltageosannouncements/319)
+• Source changelog (https://t.me/voltageosannouncements/319)
                     
-device changelog:
+Device changelog:
 • Compile with latest aosp clang 17.0.3
 • Added refresh rate
 • Added some optimizations
@@ -12,9 +12,9 @@ device changelog:
 -------------------------------------------------------
 ROM: Voltage v2.6 | Unofficial
 Date: 15/07/2023
-source changelog:
+Source changelog:
 • July security patch
 • Rebase on QPR3
 
-device changelog:
+Device changelog:
 • Remove Duplicate prop
