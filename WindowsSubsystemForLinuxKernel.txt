@@ -1,0 +1,19 @@
+Kernel: WSL Custom kernel | 5.15.123.1
+Date: 26/08/2023
+Changelog:
+• Release rolling-lts/wsl/5.15.123.1
+• Update to stable kernel version v5.15.123
+• Switched CPU governor to performance
+
+Instructions:
+1: Open cmd, enter wsl --shutdown
+2: Copy the custom kernel
+3: Go to C/Windows/System32/Ixss/tools and rename kernel to kernel.old
+4: Paste the custom kernel
+5: Open your bash and enter uname -a
+
+OR
+
+1: Open cmd and type wsl --shutdown and wsl --set-default-version2 
+2: Open wsl.config and enter kernel=<pathtothekernel>
+3: Open your bash and enter uname -a
