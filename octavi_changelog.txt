@@ -1,6 +1,5 @@
 ROM: OcatviOS v4.7 | Unofficial
 Date: 19/08/2023
-Link: pm me in telegram to send (username: @GXC2356)
 Source Changelog:
 • Aug security patch
 
