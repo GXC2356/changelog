@@ -1,0 +1,14 @@
+
+
+ROM: OcatviOS 4.6 | Unofficial (Deleted from public channels)
+Date: 08/08/2023
+Link: https://www.mediafire.com/file/z7yjc6knpf1y7sy/OctaviOS-v4.6-vayu-20230808-1110-VANILLA-Unofficial.zip/file
+Source Changelog:
+• Qs battery customisation
+• Updated gapps (fixed gmail unread font)
+• Improvements to GameSpace
+• Performance and other misc. optimization
+
+Device changelog:
+• Update dax-default profiles
+• Updated KernelSU
