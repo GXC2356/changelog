@@ -1,0 +1,31 @@
+Date: 26/09/2023
+source changelog:
+• Intial official release
+
+device changelog:
+• Remove kernel local name
+-------------------------------------------------------
+
+-------------------------------------------------------
+Date: 24/09/2023
+source changelog:
+• Synced latest PE changes
+• Merge september 2023 security patch
+• Updated fingerprints to september in PixelPropsUtils
+• Spoof device model for Netflix
+• Bugs fixes and improvements
+• Full changelog (https://t.me/SkylineUI_UPDATES/303)
+
+device changelog:
+• Enhanced audio
+• Replaced aperture with Google camera
+• Changed dirac logo
+• Added always on display
+• Merge tag 'LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0'
+-------------------------------------------------------
+
+-------------------------------------------------------
+Date: 16/08/2023
+source changelog:
+- Intial release
+- Source changelog (https://t.me/SkylineUI_UPDATES/272)
