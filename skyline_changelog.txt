@@ -1,16 +1,16 @@
 ROM: SkylineUI v9.0 | Official
 Date: 26/09/2023
-source changelog:
+Source changelog:
 • Intial official release
 
-device changelog:
+Device changelog:
 • Remove kernel local name
 -------------------------------------------------------
 
 -------------------------------------------------------
 ROM: SkylineUI v9.0 | Unofficial
 Date: 24/09/2023
-source changelog:
+Source changelog:
 • Synced latest PE changes
 • Merge september 2023 security patch
 • Updated fingerprints to september in PixelPropsUtils
@@ -18,7 +18,7 @@ source changelog:
 • Bugs fixes and improvements
 • Full changelog (https://t.me/SkylineUI_UPDATES/303)
 
-device changelog:
+Device changelog:
 • Enhanced audio
 • Replaced aperture with Google camera
 • Changed dirac logo
@@ -29,6 +29,6 @@ device changelog:
 -------------------------------------------------------
 ROM: SkylineUI | Unofficial
 Date: 16/08/2023
-source changelog:
+Source changelog:
 - Intial release
 - Source changelog (https://t.me/SkylineUI_UPDATES/272)
