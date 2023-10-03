@@ -1,5 +1,6 @@
 ROM: SkylineUI v9.0 | Official
 Date: 26/09/2023
+
 source changelog:
 • Intial official release
 
@@ -10,6 +11,7 @@ device changelog:
 -------------------------------------------------------
 ROM: SkylineUI v9.0 | Unofficial
 Date: 24/09/2023
+
 source changelog:
 • Synced latest PE changes
 • Merge september 2023 security patch
@@ -29,6 +31,7 @@ device changelog:
 -------------------------------------------------------
 ROM: SkylineUI | Unofficial
 Date: 16/08/2023
+
 source changelog:
 - Intial release
 - Source changelog (https://t.me/SkylineUI_UPDATES/272)
