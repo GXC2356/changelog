@@ -1,0 +1,5 @@
+ROM: crDroid 7.32 | Unofficial
+Date: 26/07/2023
+Source changelog:
+• July Security patch
+• Synced latest sources
