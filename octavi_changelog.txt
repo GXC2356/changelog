@@ -1,6 +1,15 @@
+ROM: OcatviOS v4.7 | Unofficial
+Date: 19/08/2023
+Link: pm me in telegram to send (username: @GXC2356)
+Source Changelog:
+• Aug security patch
 
-
-ROM: OcatviOS 4.6 | Unofficial (Deleted from public channels)
+Device changelog:
+• Added refresh rate
+• Added optimizations
+• Fixed slow animation issue
+-------------------------------------------------------
+ROM: OcatviOS v4.6 | Unofficial (Deleted from public channels)
 Date: 08/08/2023
 Link: https://www.mediafire.com/file/z7yjc6knpf1y7sy/OctaviOS-v4.6-vayu-20230808-1110-VANILLA-Unofficial.zip/file
 Source Changelog:
