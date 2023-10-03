@@ -1,0 +1,13 @@
+ROM: LeafOS v2.0 | Unofficial
+Date: 12/09/2023
+Source Changelog:
+• August security patch
+• Intial release
+
+Device changelog:
+• Switched from refresh rate controls to smooth display
+• Compile with latest aosp clang 17.0.4
+
+Known bugs:
+• Warm display
+• Charging animation, vibration and sound doesn't work
