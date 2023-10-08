@@ -1,3 +1,13 @@
+ROM: Voltage v2.8 | Unofficial
+Date: 08/10/2023
+• Source changelog (https://t.me/voltageosannouncements/338)
+                    
+Device changelog:
+• Compile with latest aosp clang 17.0.4
+• Added always on display
+
+---------------------------------------------
+
 ROM: Voltage v2.7 | Unofficial
 Date: 14/08/2023
 • Source changelog (https://t.me/voltageosannouncements/319)
