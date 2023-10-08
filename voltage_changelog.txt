@@ -7,7 +7,9 @@ Device changelog:
 • Added refresh rate
 • Added some optimizations
 • Fixed slow animation issue
+
 ---------------------------------------------
+
 ROM: Voltage v2.6 | Unofficial
 Date: 15/07/2023
 Source changelog:
